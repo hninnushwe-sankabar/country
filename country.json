@@ -4,209 +4,225 @@
       "name": "Afghanistan",
       "latitudeRange": {
         "min": 29.3772,
-        "max": 38.4916
+        "max": 38.4900
       },
       "longitudeRange": {
-        "min": 60.5285,
-        "max": 75.2282
+        "min": 60.5280,
+        "max": 74.8850
       },
       "action": "",
-      "language": "Pashto, Dari"
+      "language": "Pashto, Dari",
+      "languageCode": ["ps", "fa"]
     },
     {
       "name": "Armenia",
       "latitudeRange": {
-        "min": 40.0954,
-        "max": 41.3025
+        "min": 40.0810,
+        "max": 41.2945
       },
       "longitudeRange": {
-        "min": 40.0687,
-        "max": 46.6351
+        "min": 40.0734,
+        "max": 46.6320
       },
       "action": "",
-      "language": "Armenian"
+      "language": "Armenian",
+      "languageCode": ["hy"]
     },
     {
       "name": "Azerbaijan",
       "latitudeRange": {
-        "min": 38.3944,
-        "max": 41.1746
+        "min": 38.3942,
+        "max": 42.0980
       },
       "longitudeRange": {
-        "min": 44.7892,
-        "max": 50.2424
+        "min": 44.7872,
+        "max": 51.3694
       },
       "action": "",
-      "language": "Azerbaijani"
+      "language": "Azerbaijani",
+      "languageCode": ["az"]
     },
     {
       "name": "Bahrain",
       "latitudeRange": {
-        "min": 25.2550,
-        "max": 26.0725
+        "min": 25.3309,
+        "max": 26.0365
       },
       "longitudeRange": {
-        "min": 50.2922,
-        "max": 50.6283
+        "min": 50.3090,
+        "max": 50.6530
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Bangladesh",
       "latitudeRange": {
-        "min": 20.2339,
-        "max": 26.6388
+        "min": 20.5937,
+        "max": 26.6389
       },
       "longitudeRange": {
-        "min": 88.0454,
-        "max": 92.6745
+        "min": 88.0863,
+        "max": 92.6751
       },
       "action": "",
-      "language": "Bengali"
+      "language": "Bengali",
+      "languageCode": ["bn"]
     },
     {
       "name": "Bhutan",
       "latitudeRange": {
-        "min": 26.7034,
-        "max": 30.4579
+        "min": 26.7025,
+        "max": 30.4483
       },
       "longitudeRange": {
-        "min": 88.7469,
-        "max": 92.1697
+        "min": 88.7489,
+        "max": 92.1675
       },
       "action": "",
-      "language": "Dzongkha"
+      "language": "Dzongkha",
+      "languageCode": ["dz"]
     },
     {
       "name": "Brunei",
       "latitudeRange": {
-        "min": 4.0450,
-        "max": 5.0123
+        "min": 4.2000,
+        "max": 5.0000
       },
       "longitudeRange": {
-        "min": 114.0972,
-        "max": 115.0371
+        "min": 114.0000,
+        "max": 115.0000
       },
       "action": "",
-      "language": "Malay"
+      "language": "Malay",
+      "languageCode": ["ms"]
     },
     {
       "name": "Cambodia",
       "latitudeRange": {
-        "min": 10.4085,
-        "max": 14.7016
+        "min": 10.4080,
+        "max": 14.6882
       },
       "longitudeRange": {
-        "min": 102.3485,
-        "max": 107.5565
+        "min": 102.3441,
+        "max": 107.6115
       },
       "action": "",
-      "language": "Khmer"
+      "language": "Khmer",
+      "languageCode": ["km"]
     },
     {
       "name": "China",
       "latitudeRange": {
-        "min": 18.1592,
-        "max": 53.5609
+        "min": 18.1600,
+        "max": 53.5600
       },
       "longitudeRange": {
-        "min": 73.5580,
+        "min": 73.6650,
         "max": 135.0000
       },
       "action": "",
-      "language": "Mandarin"
+      "language": "Mandarin",
+      "languageCode": ["zh"]
     },
     {
       "name": "Cyprus",
       "latitudeRange": {
-        "min": 34.5499,
-        "max": 35.1964
+        "min": 34.6000,
+        "max": 35.3000
       },
       "longitudeRange": {
-        "min": 32.2532,
-        "max": 34.5005
+        "min": 32.2000,
+        "max": 34.6000
       },
       "action": "",
-      "language": "Greek, Turkish"
+      "language": "Greek, Turkish",
+      "languageCode": ["el", "tr"]
     },
     {
       "name": "Georgia",
       "latitudeRange": {
-        "min": 41.0477,
-        "max": 43.5785
+        "min": 41.0000,
+        "max": 43.5000
       },
       "longitudeRange": {
-        "min": 40.9977,
-        "max": 46.9995
+        "min": 40.0000,
+        "max": 47.0000
       },
       "action": "",
-      "language": "Georgian"
+      "language": "Georgian",
+      "languageCode": ["ka"]
     },
     {
       "name": "India",
       "latitudeRange": {
-        "min": 8.0882,
-        "max": 37.0985
+        "min": 6.4627,
+        "max": 37.4970
       },
       "longitudeRange": {
         "min": 68.1766,
-        "max": 97.3983
+        "max": 97.4026
       },
       "action": "",
-      "language": "Hindi, English"
+      "language": "Hindi, English",
+      "languageCode": ["hi", "en"]
     },
     {
       "name": "Indonesia",
       "latitudeRange": {
-        "min": -11.0804,
-        "max": 6.7048
+        "min": -10.0000,
+        "max": 6.0000
       },
       "longitudeRange": {
-        "min": 95.3056,
-        "max": 141.0130
+        "min": 95.0000,
+        "max": 141.0000
       },
       "action": "",
-      "language": "Indonesian"
+      "language": "Indonesian",
+      "languageCode": ["id"]
     },
     {
       "name": "Iran",
       "latitudeRange": {
-        "min": 25.0010,
-        "max": 39.0027
+        "min": 24.3960,
+        "max": 39.9999
       },
       "longitudeRange": {
-        "min": 44.0059,
+        "min": 44.0000,
         "max": 63.0000
       },
       "action": "",
-      "language": "Persian"
+      "language": "Persian",
+      "languageCode": ["fa"]
     },
     {
       "name": "Iraq",
       "latitudeRange": {
         "min": 29.0580,
-        "max": 37.3878
+        "max": 37.3921
       },
       "longitudeRange": {
-        "min": 40.1755,
-        "max": 48.2027
+        "min": 40.0490,
+        "max": 48.4551
       },
       "action": "",
-      "language": "Arabic, Kurdish"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Israel",
       "latitudeRange": {
-        "min": 29.5855,
-        "max": 33.3295
+        "min": 29.5015,
+        "max": 33.3488
       },
       "longitudeRange": {
-        "min": 34.2650,
-        "max": 35.7187
+        "min": 34.2670,
+        "max": 35.0
       },
       "action": "",
-      "language": "Hebrew, Arabic"
+      "language": "Hebrew, Arabic",
+      "languageCode": ["he", "ar"]
     },
     {
       "name": "Japan",
@@ -216,296 +232,291 @@
       },
       "longitudeRange": {
         "min": 122.9346,
-        "max": 153.9866
+        "max": 153.9867
       },
       "action": "",
-      "language": "Japanese"
+      "language": "Japanese",
+      "languageCode": ["ja"]
     },
     {
       "name": "Jordan",
       "latitudeRange": {
-        "min": 29.1843,
-        "max": 33.3871
+        "min": 29.1924,
+        "max": 33.3876
       },
       "longitudeRange": {
-        "min": 34.9515,
-        "max": 39.2925
+        "min": 35.7261,
+        "max": 39.3001
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Kazakhstan",
       "latitudeRange": {
-        "min": 40.9955,
-        "max": 55.0445
+        "min": 40.0,
+        "max": 55.0
       },
       "longitudeRange": {
-        "min": 46.0000,
-        "max": 87.2948
+        "min": 46.0,
+        "max": 87.0
       },
       "action": "",
-      "language": "Kazakh, Russian"
+      "language": "Kazakh, Russian",
+      "languageCode": ["kk", "ru"]
     },
     {
       "name": "Kuwait",
       "latitudeRange": {
-        "min": 28.6433,
-        "max": 30.0978
+        "min": 28.0000,
+        "max": 30.0000
       },
       "longitudeRange": {
-        "min": 46.5000,
-        "max": 48.0288
+        "min": 46.0000,
+        "max": 50.0000
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Kyrgyzstan",
       "latitudeRange": {
-        "min": 40.2243,
-        "max": 42.7831
+        "min": 39.0000,
+        "max": 43.0000
       },
       "longitudeRange": {
-        "min": 69.4117,
+        "min": 69.0000,
         "max": 80.0000
       },
       "action": "",
-      "language": "Kyrgyz, Russian"
+      "language": "Kyrgyz",
+      "languageCode": ["ky"]
     },
     {
       "name": "Laos",
       "latitudeRange": {
-        "min": 14.5790,
-        "max": 22.2205
+        "min": 14.0000,
+        "max": 22.0000
       },
       "longitudeRange": {
-        "min": 100.0960,
-        "max": 107.0040
+        "min": 100.0000,
+        "max": 107.0000
       },
       "action": "",
-      "language": "Lao"
+      "language": "Lao",
+      "languageCode": ["lo"]
     },
     {
       "name": "Lebanon",
       "latitudeRange": {
-        "min": 33.0650,
-        "max": 34.6393
+        "min": 33.0000,
+        "max": 34.6000
       },
       "longitudeRange": {
-        "min": 35.0985,
-        "max": 36.6364
+        "min": 35.0000,
+        "max": 36.6000
       },
       "action": "",
-      "language": "Arabic, French"
+      "language": "Arabic, French",
+      "languageCode": ["ar", "fr"]
     },
     {
       "name": "Malaysia",
       "latitudeRange": {
-        "min": 1.1753,
-        "max": 7.3605
+        "min": 0.8500,
+        "max": 7.3500
       },
       "longitudeRange": {
-        "min": 101.8364,
-        "max": 119.0164
+        "min": 99.5100,
+        "max": 119.2700
       },
       "action": "",
-      "language": "Malay"
+      "language": "Malay",
+      "languageCode": ["ms"]
     },
     {
       "name": "Maldives",
       "latitudeRange": {
-        "min": -0.7006,
-        "max": 7.4250
+        "min": -0.6900,
+        "max": 7.4000
       },
       "longitudeRange": {
-        "min": 72.4230,
-        "max": 73.8910
+        "min": 72.6100,
+        "max": 73.7300
       },
       "action": "",
-      "language": "Dhivehi"
+      "language": "Dhivehi",
+      "languageCode": ["dv"]
     },
     {
       "name": "Mongolia",
       "latitudeRange": {
-        "min": 41.5833,
-        "max": 52.1423
+        "min": 41.5800,
+        "max": 52.0000
       },
       "longitudeRange": {
-        "min": 87.7500,
-        "max": 119.9999
+        "min": 87.0000,
+        "max": 119.0000
       },
       "action": "",
-      "language": "Mongolian"
+      "language": "Mongolian",
+      "languageCode": ["mn"]
     },
     {
       "name": "Myanmar",
       "latitudeRange": {
-        "min": 9.5328,
-        "max": 28.5747
+        "min": 9.5939,
+        "max": 28.7019
       },
       "longitudeRange": {
-        "min": 92.1875,
-        "max": 101.1945
+        "min": 92.1307,
+        "max": 101.1917
       },
       "action": "",
-      "language": "Burmese"
+      "language": "Burmese",
+      "languageCode": ["my"]
     },
     {
       "name": "Nepal",
       "latitudeRange": {
         "min": 26.3470,
-        "max": 30.4475
+        "max": 30.4479
       },
       "longitudeRange": {
-        "min": 80.0588,
-        "max": 88.2010
+        "min": 80.0580,
+        "max": 88.2018
       },
       "action": "",
-      "language": "Nepali"
-    },
-    {
-      "name": "North Korea",
-      "latitudeRange": {
-        "min": 37.6700,
-        "max": 43.0050
-      },
-      "longitudeRange": {
-        "min": 124.2635,
-        "max": 130.8240
-      },
-      "action": "",
-      "language": "Korean"
+      "language": "Nepali",
+      "languageCode": ["ne"]
     },
     {
       "name": "Oman",
       "latitudeRange": {
-        "min": 16.6368,
-        "max": 26.0017
+        "min": 16.6400,
+        "max": 30.0000
       },
       "longitudeRange": {
-        "min": 52.0000,
-        "max": 60.0000
+        "min": 51.0000,
+        "max": 59.0000
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Pakistan",
       "latitudeRange": {
         "min": 23.6345,
-        "max": 37.1841
+        "max": 37.0841
       },
       "longitudeRange": {
         "min": 60.8728,
-        "max": 77.2610
+        "max": 77.8019
       },
       "action": "",
-      "language": "Urdu, English"
+      "language": "Urdu, Punjabi",
+      "languageCode": ["ur", "pa"]
     },
     {
       "name": "Palestine",
       "latitudeRange": {
-        "min": 29.2617,
-        "max": 32.4105
+        "min": 29.3090,
+        "max": 32.3994
       },
       "longitudeRange": {
-        "min": 34.2391,
-        "max": 36.3030
+        "min": 34.2405,
+        "max": 35.4285
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Philippines",
       "latitudeRange": {
-        "min": 4.2343,
-        "max": 21.1769
+        "min": 4.0000,
+        "max": 21.0000
       },
       "longitudeRange": {
-        "min": 116.9479,
+        "min": 116.0000,
         "max": 127.0000
       },
       "action": "",
-      "language": "Filipino, English"
+      "language": "Filipino, English",
+      "languageCode": ["tl", "en"]
     },
     {
       "name": "Qatar",
       "latitudeRange": {
-        "min": 24.3960,
-        "max": 26.1588
+        "min": 24.4980,
+        "max": 26.1394
       },
       "longitudeRange": {
-        "min": 50.9999,
-        "max": 51.9950
+        "min": 50.7380,
+        "max": 51.8000
       },
       "action": "",
-      "language": "Arabic"
-    },
-    {
-      "name": "Russia",
-      "latitudeRange": {
-        "min": 41.1853,
-        "max": 81.1853
-      },
-      "longitudeRange": {
-        "min": 19.6404,
-        "max": 180.0000
-      },
-      "action": "",
-      "language": "Russian"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Saudi Arabia",
       "latitudeRange": {
-        "min": 15.0000,
+        "min": 16.0000,
         "max": 32.0000
       },
       "longitudeRange": {
         "min": 34.0000,
-        "max": 55.0000
+        "max": 56.0000
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Singapore",
       "latitudeRange": {
-        "min": 1.2000,
-        "max": 1.3000
+        "min": 1.1660,
+        "max": 1.4600
       },
       "longitudeRange": {
-        "min": 103.6000,
-        "max": 104.2000
+        "min": 103.5930,
+        "max": 104.1180
       },
       "action": "",
-      "language": "English, Malay, Mandarin, Tamil"
+      "language": "English, Malay, Mandarin, Tamil",
+      "languageCode": ["en", "ms", "zh", "ta"]
     },
     {
       "name": "South Korea",
       "latitudeRange": {
-        "min": 33.1000,
+        "min": 33.0000,
         "max": 38.6000
       },
       "longitudeRange": {
         "min": 124.0000,
-        "max": 132.5000
+        "max": 132.0000
       },
       "action": "",
-      "language": "Korean"
+      "language": "Korean",
+      "languageCode": ["ko"]
     },
     {
       "name": "Sri Lanka",
       "latitudeRange": {
-        "min": 5.9250,
-        "max": 9.8300
+        "min": 5.5000,
+        "max": 9.8333
       },
       "longitudeRange": {
-        "min": 79.9680,
-        "max": 81.8340
+        "min": 79.9583,
+        "max": 81.7500
       },
       "action": "",
-      "language": "Sinhalese, Tamil"
+      "language": "Sinhala, Tamil",
+      "languageCode": ["si", "ta"]
     },
     {
       "name": "Syria",
@@ -518,98 +529,92 @@
         "max": 42.0
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Tajikistan",
       "latitudeRange": {
-        "min": 36.0000,
-        "max": 41.0000
+        "min": 36.0,
+        "max": 42.0
       },
       "longitudeRange": {
-        "min": 67.0000,
-        "max": 75.0000
+        "min": 67.0,
+        "max": 75.0
       },
       "action": "",
-      "language": "Tajik"
+      "language": "Tajik",
+      "languageCode": ["tg"]
     },
     {
       "name": "Thailand",
       "latitudeRange": {
-        "min": 6.3942,
-        "max": 20.4484
+        "min": 5.0,
+        "max": 20.0
       },
       "longitudeRange": {
-        "min": 97.3736,
-        "max": 105.6122
+        "min": 97.0,
+        "max": 106.0
       },
       "action": "",
-      "language": "Thai"
-    },
-    {
-      "name": "Turkey",
-      "latitudeRange": {
-        "min": 35.8100,
-        "max": 42.1000
-      },
-      "longitudeRange": {
-        "min": 25.9000,
-        "max": 44.8167
-      },
-      "action": "",
-      "language": "Turkish"
+      "language": "Thai",
+      "languageCode": ["th"]
     },
     {
       "name": "Turkmenistan",
       "latitudeRange": {
-        "min": 35.0000,
-        "max": 42.0000
+        "min": 35.0,
+        "max": 42.0
       },
       "longitudeRange": {
-        "min": 52.0000,
-        "max": 66.0000
+        "min": 52.0,
+        "max": 66.0
       },
       "action": "",
-      "language": "Turkmen"
+      "language": "Turkmen",
+      "languageCode": ["tk"]
     },
     {
       "name": "United Arab Emirates",
       "latitudeRange": {
-        "min": 22.6348,
-        "max": 26.0781
+        "min": 22.5000,
+        "max": 26.0000
       },
       "longitudeRange": {
-        "min": 51.5837,
-        "max": 56.0781
+        "min": 51.0000,
+        "max": 56.0000
       },
       "action": "",
-      "language": "Arabic"
+      "language": "Arabic",
+      "languageCode": ["ar"]
     },
     {
       "name": "Uzbekistan",
       "latitudeRange": {
-        "min": 37.0017,
-        "max": 45.0017
+        "min": 37.0,
+        "max": 45.0
       },
       "longitudeRange": {
-        "min": 55.0017,
-        "max": 73.0017
+        "min": 55.0,
+        "max": 73.0
       },
       "action": "",
-      "language": "Uzbek"
+      "language": "Uzbek",
+      "languageCode": ["uz"]
     },
     {
       "name": "Vietnam",
       "latitudeRange": {
-        "min": 8.3432,
-        "max": 23.3891
+        "min": 8.3430,
+        "max": 23.3900
       },
       "longitudeRange": {
-        "min": 102.1440,
-        "max": 109.4613
+        "min": 102.1442,
+        "max": 109.4550
       },
       "action": "",
-      "language": "Vietnamese"
+      "language": "Vietnamese",
+      "languageCode": ["vi"]
     }
   ]
 }
