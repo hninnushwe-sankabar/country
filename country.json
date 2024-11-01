@@ -1,0 +1,499 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "latitudeRange": {
+        "min": 29.3772,
+        "max": 38.4919
+      },
+      "longitudeRange": {
+        "min": 60.5281,
+        "max": 74.8858
+      },
+    },
+    {
+      "name": "Armenia",
+      "latitudeRange": {
+        "min": 40.059,
+        "max": 41.311
+      },
+      "longitudeRange": {
+        "min": 40.149,
+        "max": 46.606
+      },
+    },
+    {
+      "name": "Azerbaijan",
+      "latitudeRange": {
+        "min": 38.4011,
+        "max": 42.0792
+      },
+      "longitudeRange": {
+        "min": 44.7891,
+        "max": 50.1234
+      },
+    },
+    {
+      "name": "Bahrain",
+      "latitudeRange": {
+        "min": 25.3203,
+        "max": 26.1077
+      },
+      "longitudeRange": {
+        "min": 50.3044,
+        "max": 50.6635
+      },
+    },
+    {
+      "name": "Bangladesh",
+      "latitudeRange": {
+        "min": 20.5016,
+        "max": 26.6345
+      },
+      "longitudeRange": {
+        "min": 88.0119,
+        "max": 92.6752
+      },
+    },
+    {
+      "name": "Bhutan",
+      "latitudeRange": {
+        "min": 26.7024,
+        "max": 30.4475
+      },
+      "longitudeRange": {
+        "min": 80.7895,
+        "max": 92.1137
+      },
+    },
+    {
+      "name": "Brunei",
+      "latitudeRange": {
+        "min": 4.0481,
+        "max": 5.0955
+      },
+      "longitudeRange": {
+        "min": 114.1668,
+        "max": 114.7278
+      },
+    },
+    {
+      "name": "Cambodia",
+      "latitudeRange": {
+        "min": 10.4068,
+        "max": 14.7031
+      },
+      "longitudeRange": {
+        "min": 102.3441,
+        "max": 107.6458
+      },
+    },
+    {
+      "name": "China",
+      "latitudeRange": {
+        "min": 18.1533,
+        "max": 53.5604
+      },
+      "longitudeRange": {
+        "min": 73.5571,
+        "max": 135.0
+      },
+    },
+    {
+      "name": "Cyprus",
+      "latitudeRange": {
+        "min": 34.5667,
+        "max": 35.1950
+      },
+      "longitudeRange": {
+        "min": 32.2765,
+        "max": 34.6365
+      },
+    },
+    {
+      "name": "Georgia",
+      "latitudeRange": {
+        "min": 41.0437,
+        "max": 43.604
+      },
+      "longitudeRange": {
+        "min": 40.992,
+        "max": 46.739
+      },
+    },
+    {
+      "name": "India",
+      "latitudeRange": {
+        "min": 6.462,
+        "max": 37.0841
+      },
+      "longitudeRange": {
+        "min": 68.1262,
+        "max": 97.4022
+      },
+    },
+    {
+      "name": "Indonesia",
+      "latitudeRange": {
+        "min": -11.0,
+        "max": 6.0
+      },
+      "longitudeRange": {
+        "min": 95.0,
+        "max": 141.0
+      },
+    },
+    {
+      "name": "Iran",
+      "latitudeRange": {
+        "min": 24.3962,
+        "max": 39.7784
+      },
+      "longitudeRange": {
+        "min": 44.0,
+        "max": 63.0
+      },
+    },
+    {
+      "name": "Iraq",
+      "latitudeRange": {
+        "min": 29.058,
+        "max": 37.410
+      },
+      "longitudeRange": {
+        "min": 40.0,
+        "max": 48.0
+      },
+    },
+    {
+      "name": "Israel",
+      "latitudeRange": {
+        "min": 29.491,
+        "max": 33.368
+      },
+      "longitudeRange": {
+        "min": 34.267,
+        "max": 35.956
+      },
+    },
+    {
+      "name": "Japan",
+      "latitudeRange": {
+        "min": 24.3963,
+        "max": 45.5515
+      },
+      "longitudeRange": {
+        "min": 122.9346,
+        "max": 153.9867
+      },
+    },
+    {
+      "name": "Jordan",
+      "latitudeRange": {
+        "min": 29.1839,
+        "max": 33.3891
+      },
+      "longitudeRange": {
+        "min": 34.9518,
+        "max": 42.1147
+      },
+    },
+    {
+      "name": "Kazakhstan",
+      "latitudeRange": {
+        "min": 40.9959,
+        "max": 55.5
+      },
+      "longitudeRange": {
+        "min": 46.0,
+        "max": 87.0
+      },
+    },
+    {
+      "name": "Kuwait",
+      "latitudeRange": {
+        "min": 28.4239,
+        "max": 30.0859
+      },
+      "longitudeRange": {
+        "min": 46.0,
+        "max": 48.0
+      },
+    },
+    {
+      "name": "Kyrgyzstan",
+      "latitudeRange": {
+        "min": 40.3158,
+        "max": 42.7274
+      },
+      "longitudeRange": {
+        "min": 69.3090,
+        "max": 80.3000
+      },
+    },
+    {
+      "name": "Laos",
+      "latitudeRange": {
+        "min": 14.2997,
+        "max": 22.7206
+      },
+      "longitudeRange": {
+        "min": 100.0952,
+        "max": 107.7502
+      },
+    },
+    {
+      "name": "Lebanon",
+      "latitudeRange": {
+        "min": 33.0,
+        "max": 34.6
+      },
+      "longitudeRange": {
+        "min": 35.1,
+        "max": 36.5
+      },
+    },
+    {
+      "name": "Malaysia",
+      "latitudeRange": {
+        "min": 1.1655,
+        "max": 7.3635
+      },
+      "longitudeRange": {
+        "min": 101.8311,
+        "max": 119.1255
+      },
+    },
+    {
+      "name": "Maldives",
+      "latitudeRange": {
+        "min": -0.8371,
+        "max": 7.5514
+      },
+      "longitudeRange": {
+        "min": 72.2995,
+        "max": 73.7278
+      },
+    },
+    {
+      "name": "Mongolia",
+      "latitudeRange": {
+        "min": 41.5785,
+        "max": 52.1530
+      },
+      "longitudeRange": {
+        "min": 87.6433,
+        "max": 119.9420
+      },
+    },
+    {
+      "name": "Myanmar",
+      "latitudeRange": {
+        "min": 9.32,
+        "max": 28.51
+      },
+      "longitudeRange": {
+        "min": 92.19,
+        "max": 101.18
+      },
+    },
+    {
+      "name": "Nepal",
+      "latitudeRange": {
+        "min": 26.347,
+        "max": 30.447
+      },
+      "longitudeRange": {
+        "min": 80.058,
+        "max": 88.201
+      },
+    },
+    {
+      "name": "North Korea",
+      "latitudeRange": {
+        "min": 37.6644,
+        "max": 42.0056
+      },
+      "longitudeRange": {
+        "min": 124.3892,
+        "max": 130.9243
+      },
+    },
+    {
+      "name": "Oman",
+      "latitudeRange": {
+        "min": 16.636,
+        "max": 26.002
+      },
+      "longitudeRange": {
+        "min": 52.491,
+        "max": 60.0
+      },
+    },
+    {
+      "name": "Pakistan",
+      "latitudeRange": {
+        "min": 23.6345,
+        "max": 37.0841
+      },
+      "longitudeRange": {
+        "min": 60.8728,
+        "max": 77.6545
+      },
+    },
+    {
+      "name": "Palestine",
+      "latitudeRange": {
+        "min": 29.3374,
+        "max": 33.3432
+      },
+      "longitudeRange": {
+        "min": 34.2704,
+        "max": 35.7812
+      },
+    },
+    {
+      "name": "Philippines",
+      "latitudeRange": {
+        "min": 4.1235,
+        "max": 21.1456
+      },
+      "longitudeRange": {
+        "min": 116.0,
+        "max": 127.0
+      },
+    },
+    {
+      "name": "Qatar",
+      "latitudeRange": {
+        "min": 24.3968,
+        "max": 26.1952
+      },
+      "longitudeRange": {
+        "min": 50.6719,
+        "max": 51.6288
+      },
+    },
+    {
+      "name": "Saudi Arabia",
+      "latitudeRange": {
+        "min": 15.409,
+        "max": 32.3001
+      },
+      "longitudeRange": {
+        "min": 34.4959,
+        "max": 55.3877
+      },
+    },
+    {
+      "name": "Singapore",
+      "latitudeRange": {
+        "min": 1.1905,
+        "max": 1.4716
+      },
+      "longitudeRange": {
+        "min": 103.6386,
+        "max": 104.0965
+      },
+    },
+    {
+      "name": "South Korea",
+      "latitudeRange": {
+        "min": 33.0,
+        "max": 38.6
+      },
+      "longitudeRange": {
+        "min": 124.0,
+        "max": 131.0
+      },
+    },
+    {
+      "name": "Sri Lanka",
+      "latitudeRange": {
+        "min": 5.86,
+        "max": 9.83
+      },
+      "longitudeRange": {
+        "min": 79.97,
+        "max": 81.88
+      },
+    },
+    {
+      "name": "Syria",
+      "latitudeRange": {
+        "min": 32.0,
+        "max": 37.5
+      },
+      "longitudeRange": {
+        "min": 35.5,
+        "max": 42.0
+      },
+    },
+    {
+      "name": "Tajikistan",
+      "latitudeRange": {
+        "min": 36.1575,
+        "max": 41.0492
+      },
+      "longitudeRange": {
+        "min": 67.3684,
+        "max": 78.9157
+      },
+    },
+    {
+      "name": "Thailand",
+      "latitudeRange": {
+        "min": 6.3746,
+        "max": 20.4643
+      },
+      "longitudeRange": {
+        "min": 97.3738,
+        "max": 105.4979
+      },
+    },
+    {
+      "name": "Turkmenistan",
+      "latitudeRange": {
+        "min": 35.1857,
+        "max": 42.3166
+      },
+      "longitudeRange": {
+        "min": 52.3449,
+        "max": 66.6529
+      },
+    },
+    {
+      "name": "United Arab Emirates",
+      "latitudeRange": {
+        "min": 22.6333,
+        "max": 26.0856
+      },
+      "longitudeRange": {
+        "min": 51.5832,
+        "max": 56.6081
+      },
+    },
+    {
+      "name": "Uzbekistan",
+      "latitudeRange": {
+        "min": 37.0028,
+        "max": 45.0
+      },
+      "longitudeRange": {
+        "min": 56.0,
+        "max": 73.0
+      },
+    },
+    {
+      "name": "Vietnam",
+      "latitudeRange": {
+        "min": 8.3406,
+        "max": 23.3922
+      },
+      "longitudeRange": {
+        "min": 102.1445,
+        "max": 109.4613
+      },
+    }
+  ]
+}
